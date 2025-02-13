@@ -1,0 +1,5 @@
+# Cấu hình cơ bản
+Name: standup-bot
+Environment: Python
+Build Command: pip install -r requirements.txt
+Start Command: python bot.py
